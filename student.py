@@ -1,0 +1,4 @@
+
+
+class Stident:
+    pass
